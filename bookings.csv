@@ -1,0 +1,9 @@
+booking_id,apartment,check_in,check_out,price_total,status
+B001,Lloret 12A,2026-10-05,2026-10-08,330.00,confirmed
+B002,Lloret 12A,2026-10-09,2026-10-12,300.00,confirmed
+B003,Tossa 3B,2026-10-06,2026-10-10,520.00,confirmed
+B004,Tossa 3B,2026-10-11,2026-10-13,200.00,cancelled
+B005,Blanes 7C,2026-10-07,2026-10-09,180.00,confirmed
+B006,Blanes 7C,2026-10-14,2026-10-17,270.00,confirmed
+B003,Tossa 3B,2026-10-06,2026-10-10,520.00,confirmed
+B007,Lloret 5D,2026-10-04,2026-10-07,240.00,confirmed
